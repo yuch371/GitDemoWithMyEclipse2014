@@ -8,7 +8,7 @@ public class Readme {
 	 *4.  阶段4，推送到GitHub远程仓库
 	 *5.  阶段5，新增Demo.java，
 	 *6.  阶段6，第二次先提交到本地仓库，然后再推送到GitHub远程仓库
-	 *
+	 *7.  阶段7，合作
 	 *
 	 *  */
 }
